@@ -1,33 +1,33 @@
-## Step 4: Merge your pull request
+## ステップ 4: プルリクエストをマージする
 
-_Nicely done! :sunglasses:_
+_よくできました！ :sunglasses:_
 
-You successfully created a pull request. Now it's time to merge it!
+プルリクエストを作成できました。次はいよいよマージです！
 
-**What is a merge?**: A _[merge](https://docs.github.com/en/get-started/quickstart/github-glossary#merge)_ adds the changes in your pull request and branch into the `main` branch. For more information about merges, see "[Merging a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/merging-a-pull-request)."
+**マージとは？**: _[マージ](https://docs.github.com/ja/get-started/quickstart/github-glossary#merge)_ とは、プルリクエストとそのブランチの変更を `main` ブランチに取り込むことです。詳しくは、GitHub Docs の「[プルリクエストをマージする](https://docs.github.com/ja/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/merging-a-pull-request)」を参照してください。
 
 ![screenshot of green merge pull request button](../images/merge-pull-request-button.png)
 
-### :keyboard: Activity: Merge the pull request
+### :keyboard: アクティビティ: プルリクエストをマージする
 
-1. Click **Merge pull request**.
+1. **Merge pull request** をクリックします。
 
-   > **Note:** You may see workflows running on your new pull request, causing the merge button to be inactive. Just wait a moment for them to finish and the merge button will activate.
+   > **注:** 新しいプルリクエストでワークフローが実行中のため、マージボタンが押せないことがあります。その場合は少し待ってください。完了するとマージボタンが有効になります。
 
-2. Click **Confirm merge**.
+2. **Confirm merge** をクリックします。
 
-   > **Tip:** Did you notice this dialog looks similar to adding a file? A merge is also a kind of commit!
+   > **ヒント:** このダイアログ、ファイルを追加するときの画面に似ていることに気づきましたか？ マージもコミットの一種です！
 
-3. Once your branch has been merged, you don't need it anymore. To delete this branch, click **Delete branch**.
+3. ブランチがマージされたら、もうそのブランチは不要です。削除するには、**Delete branch** をクリックします。
 
    ![screenshot showing delete branch button](../images/delete-branch-button.png)
 
-4. Now that your work is merged, Mona will confirm and share some final review content. Nice work! 🎉
+4. 作業がマージされると、Mona が確認し、最後のレビュー内容を共有してくれます。お疲れさまでした！ 🎉
 
 <details>
-<summary>Having trouble? 🤷</summary><br/>
+<summary>困っていますか？ 🤷</summary><br/>
 
-If you don't get feedback, here are some things to check:
-- Make sure you completed the previous lessons. If they haven't passed, the merge button will be gray.
+フィードバックが表示されない場合は、次の点を確認してください。
+- 前のレッスンを完了していることを確認してください。完了していない場合、マージボタンはグレー表示になります。
 
 </details>
