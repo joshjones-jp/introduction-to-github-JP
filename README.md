@@ -1,44 +1,44 @@
-# Introduction to GitHub
+# GitHub 入門
 
-_Get started using GitHub in less than an hour._
+_1 時間以内で GitHub を使い始めましょう。_
 
-## Welcome
+## ようこそ
 
-People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that ca[...]
+GitHub は、世界でもっとも先進的な技術のいくつかを生み出すために使われています。データを可視化するときも、新しいゲームを作るときも、GitHub には学び、共同作業し、構築するための大きなコミュニティとさまざまなツールがあります。
 
-- **Who is this for**: New developers, new GitHub users, and students.
-- **What you'll learn**: We'll introduce repositories, branches, commits, and pull requests.
-- **What you'll build**: We'll make a short Markdown file you can use as your [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-[...]
-- **Prerequisites**: None. This exercise is a great introduction for your first day on GitHub.
-- **How long**: This exercise takes less than one hour to complete.
+- **対象者**: 新しい開発者、GitHub を初めて使う人、学生。
+- **学べること**: リポジトリ、ブランチ、コミット、プルリクエストを紹介します。
+- **作るもの**: [プロフィール README](https://docs.github.com/ja/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) として使える短い Markdown ファイルを作成します。
+- **前提知識**: なし。GitHub を使い始める最初の日にぴったりの演習です。
+- **所要時間**: この演習は 1 時間以内で完了できます。
 
-In this exercise, you will:
+この演習では、次のことを行います。
 
-1. Create a branch
-2. Commit a file
-3. Open a pull request
-4. Merge your pull request
+1. ブランチを作成する
+2. ファイルをコミットする
+3. プルリクエストを開く
+4. プルリクエストをマージする
 
-### How to start this exercise
+### この演習の始め方
 
-Simply copy the exercise to your account, then give your favorite Octocat (Mona) **about 20 seconds** to prepare the first lesson, then **refresh the page**.
+演習を自分のアカウントにコピーしたら、お気に入りの Octocat（Mona）が最初のレッスンを準備するまで **20 秒ほど** 待ち、そのあと **ページを更新** してください。
 
-[![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=joshjones-jp&template_name=introduction-to-github-JP&owner=%40me&name=skills-introduction-to-github&description=Exercise:+Introduction+to+GitHub&visibility=public)
+[![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=joshjones-jp&template_name=introduction-to-github-JP)
 
 <details>
-<summary>Having trouble? 🤷</summary><br/>
+<summary>困っていますか？ 🤷</summary><br/>
 
-When copying the exercise, we recommend the following settings:
+演習をコピーするときは、次の設定をお��すめします。
 
-- For owner, choose your personal account or an organization to host the repository.
+- owner には、個人アカウントまたはリポジトリをホストする組織を選んでください。
 
-- We recommend creating a public repository, since private repositories will use Actions minutes.
+- 非公開リポジトリでは Actions 分が消費されるため、公開リポジトリを作成することをおすすめします。
 
-If the exercise isn't ready in 20 seconds, please check the [Actions](../../actions) tab.
+20 秒たっても演習の準備ができない場合は、[Actions](../../actions) タブを確認してください。
 
-- Check to see if a job is running. Sometimes it simply takes a bit longer.
+- ジョブが実行中かどうか確認してください。少し時間がかかることがあります。
 
-- If the page shows a failed job, please submit an issue. Nice, you found a bug! 🐛
+- ページに失敗したジョブが表示されている場合は、issue を送信してください。おっと、バグを見つけましたね！ 🐛
 
 </details>
 
