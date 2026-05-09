@@ -23,7 +23,7 @@ GitHub は、世界でもっとも先進的な技術のいくつかを生み出�
 
 演習を自分のアカウントにコピーしたら、お気に入りの Octocat（Mona）が最初のレッスンを準備するまで **20 秒ほど** 待ち、そのあと **ページを更新** してください。
 
-[![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=joshjones-jp&template_name=introduction-to-github-JP)
+[![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=joshjones-jp&template_name=introduction-to-github-JP&owner=%40me&name=skills-introduction-to-github&description=Exercise:+Introduction+to+GitHub&visibility=public)
 
 <details>
 <summary>困っていますか？ 🤷</summary><br/>
