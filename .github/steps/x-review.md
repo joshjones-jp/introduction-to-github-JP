@@ -2,7 +2,7 @@
 
 _おめでとうございます。この演習を完了し、開発者の世界の仲間入りをしました！_
 
-<img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
+<img src=https://octodex.github.com/images/collabocats.jpg alt=お祝い width=300 align=right>
 
 ここまでの達成を振り返りましょう。
 

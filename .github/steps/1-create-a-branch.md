@@ -23,7 +23,7 @@ GitHub は、[オープンソース](https://docs.github.com/get-started/quickst
 **プロフィール README とは？**: _[プロフィール README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)_ は、GitHub.com 上でコミュニティに向けて自分のことを紹介できる、GitHub プロフィールの「自己紹介」セクションのようなものです。
 GitHub は、プロフィール README をプロフィールページの上部に表示します。詳しくは、「[プロフィール README を管理する](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)」を参照してください。
 
-![screenshot showing an example profile readme](../images/example-profile-readme.png)
+![プロフィール README の例を示すスクリーンショット](../images/example-profile-readme.png)
 
 ### :keyboard: アクティビティ: 最初のブランチ
 
@@ -31,11 +31,11 @@ GitHub は、プロフィール README をプロフィールページの上部�
 
 2. リポジトリのヘッダーメニューにある **< > Code** タブに移動します。
 
-   ![screenshot highlighting the code tab](../images/code-tab-highlight.png)
+   ![Code タブを強調したスクリーンショット](../images/code-tab-highlight.png)
 
 3. **main** ブランチのドロップダウンをクリックします。
 
-   <img width="300" alt="screenshot highlighting the branch selection" src="../images/branch-selection-dropdown.png">
+   <img width="300" alt="ブランチ選択を強調したスクリーンショット" src="../images/branch-selection-dropdown.png">
 
 4. **Find or create a branch...** のテキストボックスに `my-first-branch` と入力します。
    
@@ -43,7 +43,7 @@ GitHub は、プロフィール README をプロフィールページの上部�
 
 5. **Create branch: `my-first-branch` from main** というテキストをクリックして、ブランチを作成します。
 
-   <img width="300" alt="screenshot highlighting the create branch prompt" src="../images/create-branch-prompt.png">
+   <img width="300" alt="ブランチ作成プロンプトを強調したスクリーンショット" src="../images/create-branch-prompt.png">
 
    - ブランチは自動的に、今作成したブランチへ切り替わります。
    - **main** ブランチのドロップダウンメニューに、新しいブランチ名が表示されます。

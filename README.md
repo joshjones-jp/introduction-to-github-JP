@@ -28,7 +28,7 @@ GitHub は、世界でもっとも先進的な技術のいくつかを生み出�
 <details>
 <summary>困っていますか？ 🤷</summary><br/>
 
-演習をコピーするときは、次の設定をお��すめします。
+演習をコピーするときは、次の設定をおすすめします。
 
 - owner には、個人アカウントまたはリポジトリをホストする組織を選んでください。
 
@@ -44,4 +44,4 @@ GitHub は、世界でもっとも先進的な技術のいくつかを生み出�
 
 ---
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+&copy; 2025 GitHub &bull; [行動規範](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT ライセンス](https://gh.io/mit)
